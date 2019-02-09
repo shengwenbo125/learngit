@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 Create dev branch.
 Edit dev.
+Two persons works on the file.
